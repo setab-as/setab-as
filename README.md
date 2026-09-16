@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there
+I'm Avnil Sharma, a Computing Science student at the University of Alberta.
+
+My main interest is **GIS**: spatial analysis, mapping, and working with geographic data.
 
 <!--
 **setab-as/setab-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
